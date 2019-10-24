@@ -5,6 +5,9 @@ layout: landing-page
 heading: St Andrews
 partners: []
 services:
+- heading: Action
+  description: Physical exertion contributing to a healthy lifestyle
+  icon: ''
 - heading: Creativity
   description: Exploring and extending ideas leading to an original or interpretive
     product or performance
