@@ -28,14 +28,9 @@ fields:
   hidden: false
   default: ''
 - name: phone
-  type: number
-  label: Phone
-  description: ''
-  default: 0
-  required: true
+  type: text
   config:
-    min: 
-    max: 
-    step: 
+    required: false
+  label: Phone
 pages:
 - _data/information.yml
