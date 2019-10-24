@@ -8,10 +8,10 @@ services:
 - heading: Creativity
   description: Exploring and extending ideas leading to an original or interpretive
     product or performance
-  icon: ''
+  icon: "/uploads/2019/10/24/C.png"
 - heading: Action
   description: Physical exertion contributing to a healthy lifestyle
-  icon: ''
+  icon: "/uploads/2019/10/24/A.png"
 - heading: Service
   description: Collaborative and reciprocal engagement with the community in response
     to an authentic need.
