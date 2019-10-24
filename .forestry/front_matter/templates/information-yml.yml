@@ -27,5 +27,15 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: phone
+  type: number
+  label: Phone
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - _data/information.yml
