@@ -5,6 +5,10 @@ layout: landing-page
 heading: St Andrews
 partners: []
 services:
+- heading: Service
+  description: Collaborative and reciprocal engagement with the community in response
+    to an authentic need.
+  icon: ''
 - heading: Action
   description: Physical exertion contributing to a healthy lifestyle
   icon: ''
