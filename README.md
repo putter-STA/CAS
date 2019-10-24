@@ -1,6 +1,6 @@
 # Forestry Jekyll demo
 
-A Jekyll demo site for [Forestry CMS](https://forestry.io).
+A Jekyll demo site for [Forestry CMS](https://forestry.io). Made for testing the STA CAS website
 
 ## Import to Forestry
 
