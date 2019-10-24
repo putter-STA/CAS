@@ -7,11 +7,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: phone
-  label: Phone
-  type: text
-  hidden: false
-  default: ''
 - name: address_1
   label: Address 1
   type: text
