@@ -5,14 +5,10 @@ layout: landing-page
 heading: St Andrews
 partners: []
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- heading: Creativity
+  description: Exploring and extending ideas leading to an original or interpretive
+    product or performance
+  icon: ''
 sub_heading: IB CAS Guide
 textline: What is CAS?
 hero_button:
