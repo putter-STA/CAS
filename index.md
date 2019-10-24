@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/10/24/photo-1566640269407-436c75fc9495.jpg"
 layout: landing-page
 heading: St Andrews
 partners: []
