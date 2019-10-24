@@ -15,7 +15,7 @@ services:
 - heading: Service
   description: Collaborative and reciprocal engagement with the community in response
     to an authentic need.
-  icon: ''
+  icon: "/uploads/2019/10/24/S.png"
 sub_heading: IB CAS Guide
 textline: What is CAS?
 hero_button:
